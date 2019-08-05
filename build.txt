@@ -1,3 +1,0 @@
-author = Naq
-version = 1.0
-displayName = Ancient Arsenal
