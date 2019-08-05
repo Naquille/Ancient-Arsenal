@@ -1,0 +1,3 @@
+author = Naq
+version = 2.01
+displayName = Ancient Arsenal
